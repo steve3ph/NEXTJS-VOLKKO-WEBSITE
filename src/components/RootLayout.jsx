@@ -8,11 +8,12 @@ import Link from 'next/link';
 import Logo from './Logo';
 import { HiMenuAlt4 } from "react-icons/hi";
 import { IoMdClose } from "react-icons/io";
-import Button from './button';
+
 import clsx from 'clsx';
 import Offices from './Offices';
 import SocialMedia from './SocialMedia';
 import Footer from './Footer';
+import Button from './Button';
 
 const Header = ({
     panelId,
